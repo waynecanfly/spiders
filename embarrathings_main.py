@@ -1,4 +1,8 @@
 # -*- coding:utf-8 -*-
+"""
+爬取糗事百科上的作者与段子内容：
+"""
+
 import urllib
 import urllib2
 import re
